@@ -1,0 +1,13 @@
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\bin\Release\LWCSummerRetreat17.exe.config
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\bin\Release\LWCSummerRetreat17.exe
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\bin\Release\LWCSummerRetreat17.pdb
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Release\MainWindow.g.cs
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Release\App.g.cs
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Release\LWCSummerRetreat17_MarkupCompile.cache
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Release\LWCSummerRetreat17_MarkupCompile.lref
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Release\MainWindow.baml
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Release\LWCSummerRetreat17.g.resources
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Release\LWCSummerRetreat17.Properties.Resources.resources
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Release\LWCSummerRetreat17.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Release\LWCSummerRetreat17.exe
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Release\LWCSummerRetreat17.pdb

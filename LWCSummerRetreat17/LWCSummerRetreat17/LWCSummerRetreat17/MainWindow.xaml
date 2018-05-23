@@ -1,0 +1,18 @@
+﻿<Window x:Class="LWCSummerRetreat17.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LWCSummerRetreat17"
+        mc:Ignorable="d"
+        Title="Liar Game" Height="{DynamicResource {x:Static SystemParameters.FullPrimaryScreenHeightKey}}" Width="{DynamicResource {x:Static SystemParameters.FullPrimaryScreenWidthKey}}" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="panel" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}">
+        <Button x:Name="game1" Content="Game 1" HorizontalAlignment="Left" Height="158" Margin="81,323,0,0" VerticalAlignment="Top" Width="399" Click="game1_Click_1" FontSize="72" FontFamily="SimSun-ExtB"/>
+        <Button x:Name="game2" Content="Game 2" HorizontalAlignment="Left" Height="158" Margin="530,323,0,0" VerticalAlignment="Top" Width="400" Click="game2_Click_1" FontSize="72" FontFamily="SimSun-ExtB"/>
+        <Button x:Name="game3" Content="Game 3" HorizontalAlignment="Left" Height="158" Margin="982,323,0,0" VerticalAlignment="Top" Width="399" Click="game3_Click_1" FontSize="72" FontFamily="SimSun-ExtB"/>
+        <Button x:Name="transfer" Content="Transfer" HorizontalAlignment="Left" Margin="982,598,0,0" VerticalAlignment="Top" Width="399" Click="transfer_Click_1" Height="155" FontSize="48" FontFamily="SimSun-ExtB"/>
+        <Button x:Name="data" Content="Single Player Data" HorizontalAlignment="Left" Margin="530,598,0,0" VerticalAlignment="Top" Width="401" Click="data_Click_1" Height="155" FontSize="43" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="SimSun-ExtB"/>
+        <Button x:Name="allPlayers" Content="All Player Data" HorizontalAlignment="Left" Margin="80,598,0,0" VerticalAlignment="Top" Width="400" Click="allPlayers_Click_1" Height="155" FontSize="48" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="liarGameTitle" Content="-Liar Game-" HorizontalAlignment="Left" Margin="315,39,0,637.571" Width="830" FontFamily="SimSun-ExtB" FontSize="150"/>
+    </Grid>
+</Window>

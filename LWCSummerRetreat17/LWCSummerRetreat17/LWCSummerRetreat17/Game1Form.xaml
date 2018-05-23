@@ -1,0 +1,20 @@
+﻿<Window x:Class="LWCSummerRetreat17.Game1Form"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LWCSummerRetreat17"
+        mc:Ignorable="d"
+        Title="Minority Game" Height="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenHeightKey}}" Width="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackWidthKey}}" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="minoritygametitle" Content="-Minority Game-" HorizontalAlignment="Left" Margin="361,45,0,694.429" Width="760" FontSize="100" FontFamily="SimSun-ExtB"/>
+        <Button x:Name="yesButton" Content="YES" HorizontalAlignment="Left" Margin="857,250,0,0" VerticalAlignment="Top" Width="483" Height="248" FontSize="80" FontFamily="SimSun-ExtB" Click="yesButton_Click"/>
+        <Button x:Name="noButton" Content="NO" HorizontalAlignment="Left" Margin="857,539,0,0" VerticalAlignment="Top" Width="483" Height="248" FontSize="80" FontFamily="SimSun-ExtB" Click="noButton_Click"/>
+        <Label x:Name="nameLabel" Content="FirstName LastName" HorizontalAlignment="Left" Margin="138,355,0,0" VerticalAlignment="Top" Height="114" Width="670" FontSize="72" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="idLabel" Content="ID:" HorizontalAlignment="Left" Margin="138,288,0,0" VerticalAlignment="Top" Height="109" Width="202" FontSize="72" FontFamily="SimSun-ExtB"/>
+        <Button Content="Tally" HorizontalAlignment="Left" Margin="138,600,0,0" VerticalAlignment="Top" Width="436" Height="187" FontFamily="SimSun-ExtB" FontSize="72" Click="Button_Click"/>
+        <Label x:Name="tallyLabel" Content="" HorizontalAlignment="Left" Margin="138,329,0,0" VerticalAlignment="Top" FontFamily="SimSun-ExtB" FontSize="80"/>
+        <Button x:Name="undoButton" Content="Undo" HorizontalAlignment="Left" Margin="138,465,0,0" VerticalAlignment="Top" Width="202" Height="96" FontSize="72" FontFamily="SimSun-ExtB" Click="undoButton_Click"/>
+
+    </Grid>
+</Window>

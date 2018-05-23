@@ -1,0 +1,14 @@
+﻿<Window x:Class="LWCSummerRetreat17.AllPlayerDataForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LWCSummerRetreat17"
+        mc:Ignorable="d"
+        Title="Liar Game" Height="560.571" Width="498.822">
+    <Grid Margin="0,0,0.143,0.429">
+        <DataGrid x:Name="allPlayerDataGrid" HorizontalAlignment="Left" Margin="43,88,0,10.571" Width="405" CanUserAddRows="False" ColumnWidth="100"/>
+        <Button x:Name="idSort" Content="Sort By ID" HorizontalAlignment="Left" Margin="43,26,0,0" VerticalAlignment="Top" Width="195" Height="42" FontSize="20" Click="idSort_Click" FontFamily="SimSun-ExtB"/>
+        <Button x:Name="balanceSort" Content="Sort By Balance" HorizontalAlignment="Left" Margin="253,26,0,0" VerticalAlignment="Top" Width="195" Height="42" FontSize="20" Click="balanceSort_Click" FontFamily="SimSun-ExtB"/>
+    </Grid>
+</Window>

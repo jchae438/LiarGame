@@ -1,0 +1,117 @@
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MainWindow.g.cs
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\App.g.cs
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17_MarkupCompile.cache
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17_MarkupCompile.lref
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\bin\Debug\LWCSummerRetreat17.exe.config
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\bin\Debug\LWCSummerRetreat17.exe
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\bin\Debug\LWCSummerRetreat17.pdb
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MainWindow.baml
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.g.resources
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.Properties.Resources.resources
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.exe
+c:\users\john\documents\visual studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\AllPlayerDataForm.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\DataForm.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game1Form.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game2Form.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game3Form.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\TransferForm.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\AllPlayerDataForm.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\DataForm.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game1Form.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game2Form.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game3Form.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\TransferForm.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MinorityTally.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MinorityTally.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MinorityGameTransition.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MinorityGameTransition.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGame.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGame.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGamePlayerStatusForm.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGamePlayerStatusForm.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameUseVaccineForm.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameUseVaccineForm.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameVictoryPointsAfterRepeat.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameVictoryPointsAfterRepeat.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameVictoryPointsAfterFinish.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameVictoryPointsAfterFinish.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\TransferToPersonalBankAfterPandemicGame.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\TransferToPersonalBankAfterPandemicGame.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsElectionPage.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsResultsPage.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsElectionPage.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsResultsPage.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsElectionResultsPage.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsElectionResultsPage.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsEliminationPage.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsEliminationPage.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsFinalWinnersPage.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsFinalWinnersPage.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsTokenPage.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsTokenPage.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsTransferPointsPage.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsTransferPointsPage.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsAllPlayerDataWindow.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsAllPlayerDataWindow.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\bin\Debug\LWCSummerRetreat17.exe.config
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\bin\Debug\LWCSummerRetreat17.exe
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\bin\Debug\LWCSummerRetreat17.pdb
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.csprojAssemblyReference.cache
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\AllPlayerDataForm.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\DataForm.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game1Form.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game2Form.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game3Form.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MainWindow.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MinorityGameTransition.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MinorityTally.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsAllPlayerDataWindow.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsElectionPage.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsElectionResultsPage.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsEliminationPage.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsFinalWinnersPage.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsResultsPage.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsTokenPage.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsTransferPointsPage.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGame.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGamePlayerStatusForm.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameUseVaccineForm.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameVictoryPointsAfterFinish.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameVictoryPointsAfterRepeat.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\TransferForm.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\TransferToPersonalBankAfterPandemicGame.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\App.g.cs
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17_MarkupCompile.cache
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17_MarkupCompile.lref
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\AllPlayerDataForm.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\DataForm.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game1Form.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game2Form.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\Game3Form.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MainWindow.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MinorityGameTransition.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MinorityTally.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsAllPlayerDataWindow.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsElectionPage.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsElectionResultsPage.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsEliminationPage.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsFinalWinnersPage.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsResultsPage.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsTokenPage.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\MusicalChairsTransferPointsPage.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGame.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGamePlayerStatusForm.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameUseVaccineForm.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameVictoryPointsAfterFinish.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\PandemicGameVictoryPointsAfterRepeat.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\TransferForm.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\TransferToPersonalBankAfterPandemicGame.baml
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.g.resources
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.Properties.Resources.resources
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.csproj.GenerateResource.cache
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.csproj.CoreCompileInputs.cache
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.exe
+C:\Users\John\Downloads\LWCSummerRetreat17\LWCSummerRetreat17\LWCSummerRetreat17\obj\Debug\LWCSummerRetreat17.pdb

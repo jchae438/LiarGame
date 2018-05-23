@@ -1,0 +1,23 @@
+﻿<Window x:Class="LWCSummerRetreat17.PandemicGamePlayerStatusForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LWCSummerRetreat17"
+        mc:Ignorable="d"
+        Title="Player Status Form" Height="300" Width="279.164">
+    <Grid>
+        <Label x:Name="instructID" Content="Enter ID:" HorizontalAlignment="Left" Margin="10,13,0,0" VerticalAlignment="Top" Width="64" FontFamily="SimSun-ExtB"/>
+        <TextBox x:Name="idTextBox" HorizontalAlignment="Left" Height="23" Margin="10,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="129" KeyDown="TextBox_KeyDown" KeyUp="TextBox_KeyUp"/>
+        <Label x:Name="firstNameStatic" Content="First Name:" HorizontalAlignment="Left" Margin="77,81,0,0" VerticalAlignment="Top" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="lastNameStatic" Content="Last Name:" HorizontalAlignment="Left" Margin="77,112,0,0" VerticalAlignment="Top" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="balanceStatic" Content="Status: " HorizontalAlignment="Left" Margin="77,143,0,0" VerticalAlignment="Top" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="firstNameDynamic" Content="-" HorizontalAlignment="Left" Margin="152,81,0,0" VerticalAlignment="Top" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="lastNameDynamic" Content="-" HorizontalAlignment="Left" Margin="152,112,0,0" VerticalAlignment="Top" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="balanceDynamic" Content="-" HorizontalAlignment="Left" Margin="131,143,0,0" VerticalAlignment="Top" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="idError" Content="" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" Width="254" Foreground="Red" Height="33" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="vaccineLabelStatic" Content="Vaccines:" HorizontalAlignment="Left" Margin="77,174,0,0" VerticalAlignment="Top" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="vaccineDynamic" Content="-" HorizontalAlignment="Left" Margin="139,174,0,0" VerticalAlignment="Top" FontFamily="SimSun-ExtB"/>
+
+    </Grid>
+</Window>

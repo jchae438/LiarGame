@@ -1,0 +1,18 @@
+﻿<Page x:Class="LWCSummerRetreat17.PandemicGameVictoryPointsAfterFinish"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LWCSummerRetreat17"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="PandemicGameVictoryPointsAfterFinish"
+      Height="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenHeightKey}}" Width="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackWidthKey}}">
+
+    <Grid>
+        <Label x:Name="pandemicGameTitle" Content="-Pandemic Game Winners-" HorizontalAlignment="Left" Margin="162,40,0,728" Width="1166" FontSize="100" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="listOfWinners" Content="" HorizontalAlignment="Left" Margin="90,165,0,56" Width="1061" FontSize="48" FontFamily="SimSun-ExtB"/>
+        <Button x:Name="yesButton" Content="Continue" HorizontalAlignment="Left" Margin="1068,336,0,0" VerticalAlignment="Top" Width="364" Height="248" FontSize="80" FontFamily="SimSun-ExtB" Click="yesButton_Click"/>
+
+    </Grid>
+</Page>

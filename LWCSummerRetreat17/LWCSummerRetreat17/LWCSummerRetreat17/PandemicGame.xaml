@@ -1,0 +1,27 @@
+﻿<Page x:Class="LWCSummerRetreat17.PandemicGame"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LWCSummerRetreat17"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="PandemicGame"
+      Height="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenHeightKey}}" Width="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackWidthKey}}">
+
+    <Grid>
+        <Label x:Name="pandemicGameTitle" Content="-Pandemic Game-" HorizontalAlignment="Left" Margin="358,40,0,728" Width="760" FontSize="100" FontFamily="SimSun-ExtB"/>
+        <CheckBox x:Name="doubleFuse" Content="Double Fuse" HorizontalAlignment="Left" Margin="121,271,0,0" VerticalAlignment="Top" Height="53" Width="358" FontFamily="SimSun-ExtB" FontSize="48"/>
+        <TextBox x:Name="player1TB" HorizontalAlignment="Left" Height="61" Margin="568,326,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="302" FontFamily="SimSun-ExtB" FontSize="48"/>
+        <TextBox x:Name="player2TB" HorizontalAlignment="Left" Height="61" Margin="1001,326,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="302" FontFamily="SimSun-ExtB" FontSize="48" KeyUp="player2TB_KeyUp"/>
+        <Label x:Name="id1" Content="Player 1 ID:" HorizontalAlignment="Left" Margin="568,265,0,0" VerticalAlignment="Top" Height="74" Width="302" FontFamily="SimSun-ExtB" FontSize="48"/>
+        <Label x:Name="id2" Content="Player 2 ID:" HorizontalAlignment="Left" Margin="1001,265,0,0" VerticalAlignment="Top" Height="74" Width="302" FontFamily="SimSun-ExtB" FontSize="48"/>
+        <Button x:Name="connectButton" Content="Connect" HorizontalAlignment="Left" Margin="121,372,0,0" VerticalAlignment="Top" Width="339" Height="96" FontFamily="SimSun-ExtB" FontSize="48" Click="connectButton_Click"/>
+        <Button x:Name="nextRoundButton" Content="End Round" HorizontalAlignment="Left" Margin="1077,731,0,0" VerticalAlignment="Top" Width="339" Height="96" FontFamily="SimSun-ExtB" FontSize="48" RenderTransformOrigin="0.504,-0.457" Click="nextRoundButton_Click"/>
+        <Label x:Name="errorIDLabel" Content="" HorizontalAlignment="Left" Margin="568,391,0,0" VerticalAlignment="Top" Height="95" Width="735" FontFamily="SimSun-ExtB" FontSize="36" Foreground="Red"/>
+        <Button x:Name="playerStatusButton" Content="Player Status" HorizontalAlignment="Left" Margin="568,731,0,0" VerticalAlignment="Top" Width="339" Height="96" FontFamily="SimSun-ExtB" FontSize="48" Click="playerStatusButton_Click"/>
+        <Button x:Name="useVaccineButton" Content="Use Vaccine" HorizontalAlignment="Left" Margin="60,731,0,0" VerticalAlignment="Top" Width="339" Height="96" FontFamily="SimSun-ExtB" FontSize="48" Click="useVaccineButton_Click"/>
+        <Label x:Name="successLabel" Content="" HorizontalAlignment="Left" Margin="568,392,0,0" VerticalAlignment="Top" Height="95" Width="735" FontFamily="SimSun-ExtB" FontSize="36" Foreground="#FF2F9707"/>
+
+    </Grid>
+</Page>

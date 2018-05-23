@@ -1,0 +1,27 @@
+﻿<Page x:Class="LWCSummerRetreat17.MusicalChairsTokenPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LWCSummerRetreat17"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="MusicalChairsTokenPage"
+      Height="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenHeightKey}}" Width="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackWidthKey}}">
+
+    <Grid>
+        <Label x:Name="minoritygametitle" Content="-Assign Tokens-" HorizontalAlignment="Left" Margin="362,49,0,719" Width="765" FontSize="100" FontFamily="SimSun-ExtB"/>
+        <Label Content="Token Value:" HorizontalAlignment="Left" Margin="38,165,0,0" VerticalAlignment="Top" Height="84" Width="438" FontSize="72" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="playerID1" Content="Player ID:" HorizontalAlignment="Left" Margin="38,585,0,0" VerticalAlignment="Top" Height="84" Width="361" FontSize="72" FontFamily="SimSun-ExtB"/>
+        <TextBox x:Name="playerID" HorizontalAlignment="Left" Height="58" Margin="38,674,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="361" FontFamily="SimSun-ExtB" FontSize="48"/>
+        <TextBox x:Name="tokenValueBox" HorizontalAlignment="Left" Height="58" Margin="38,270,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="438" FontFamily="SimSun-ExtB" FontSize="48"/>
+        <Button x:Name="assignTokenValueButton" Content="Determine Value" HorizontalAlignment="Left" Margin="38,357,0,0" VerticalAlignment="Top" Width="623" Height="141" FontFamily="SimSun-ExtB" FontSize="72" Click="assignTokenValueButton_Click"/>
+        <Label x:Name="successLabel" Content="" HorizontalAlignment="Left" Margin="38,761,0,0" VerticalAlignment="Top" Height="81" Width="1392" FontFamily="SimSun-ExtB" FontSize="48" Foreground="#FF00AC2E"/>
+        <Label x:Name="errorLabel" Content="" HorizontalAlignment="Left" Margin="38,761,0,0" VerticalAlignment="Top" Height="81" Width="1392" FontFamily="SimSun-ExtB" FontSize="48" Foreground="Red"/>
+        <Button x:Name="giveTokenButton" Content="Give Tokens" HorizontalAlignment="Left" Margin="985,591,0,0" VerticalAlignment="Top" Width="445" Height="141" FontFamily="SimSun-ExtB" FontSize="72" Click="giveTokenButton_Click"/>
+        <Label x:Name="playerID1_Copy" Content="# of Tokens" HorizontalAlignment="Left" Margin="482,585,0,0" VerticalAlignment="Top" Height="84" Width="406" FontSize="72" FontFamily="SimSun-ExtB"/>
+        <TextBox x:Name="numTokens" HorizontalAlignment="Left" Height="58" Margin="482,674,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="406" FontFamily="SimSun-ExtB" FontSize="48"/>
+        <Button x:Name="nextButton" Content="Next" HorizontalAlignment="Left" Margin="1124,187,0,0" VerticalAlignment="Top" Width="306" Height="141" FontFamily="SimSun-ExtB" FontSize="72" Click="nextButton_Click"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,22 @@
+﻿<Page x:Class="LWCSummerRetreat17.MusicalChairsEliminationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LWCSummerRetreat17"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="MusicalChairsEliminationPage"
+      Height="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenHeightKey}}" Width="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackWidthKey}}">
+
+    <Grid>
+        <Label x:Name="minoritygametitle" Content="-CPass Elimination Round 1-" HorizontalAlignment="Left" Margin="20,51,-0.143,717" Width="1451" FontSize="100" FontFamily="SimSun-ExtB"/>
+        <Label x:Name="cpassIDStatic" Content="CPass ID:" HorizontalAlignment="Left" Margin="291,340,0,0" VerticalAlignment="Top" Height="84" Width="361" FontSize="72" FontFamily="SimSun-ExtB"/>
+        <TextBox x:Name="cpassIDDynamic" HorizontalAlignment="Left" Height="58" Margin="291,445,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="361" FontFamily="SimSun-ExtB" FontSize="48"/>
+        <Button x:Name="eliminateButton" Content="Eliminate" HorizontalAlignment="Left" Margin="823,349,0,0" VerticalAlignment="Top" Width="363" Height="141" FontFamily="SimSun-ExtB" FontSize="72" Click="eliminateButton_Click"/>
+        <Label x:Name="successLabel" Content="" HorizontalAlignment="Left" Margin="38,687,0,0" VerticalAlignment="Top" Height="81" Width="1173" FontFamily="SimSun-ExtB" FontSize="48" Foreground="#FF00AC2E"/>
+        <Label x:Name="errorLabel" Content="" HorizontalAlignment="Left" Margin="38,687,0,0" VerticalAlignment="Top" Height="81" Width="1173" FontFamily="SimSun-ExtB" FontSize="48" Foreground="Red"/>
+        <Button x:Name="nextButton" Content="Next" HorizontalAlignment="Left" Margin="1072,672,0,0" VerticalAlignment="Top" Width="330" Height="141" FontFamily="SimSun-ExtB" FontSize="72" Click="nextButton_Click"/>
+
+    </Grid>
+</Page>
